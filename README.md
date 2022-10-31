@@ -1,4 +1,4 @@
 # testrepo
 test
 
-[docs](blob/master/docs/index.md)
+[docs](docs/index.md)
